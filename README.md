@@ -7,7 +7,7 @@ Data Scientist / Analyst
 Data Scientist / Analyst with 4+ years delivering end-to-end data projects — from raw data to business impact. Currently seeking new opportunities in data analytics to build on that foundation.
 
 * 🌍  I'm based in United Kingdom
-* 🖥️  See my portfolio at [LinkedIN](http://www.linkedin.com/in/gerald-fraser/)
+* 💼  See my work experience at [LinkedIN](http://www.linkedin.com/in/gerald-fraser/)
 * ✉️  You can contact me at [fraserg987@hotmail.co.uk](mailto:fraserg987@hotmail.co.uk)
 * 🧠  I'm currently learning Agentic AI and workflows
 * 👥  I'm looking to collaborate on on LLM-powered tools, forecasting problems, or ML pipeline/tooling projects to build up my expertise.
