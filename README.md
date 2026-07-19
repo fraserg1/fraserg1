@@ -43,7 +43,7 @@ Watch the demo here:
 
 https://github.com/user-attachments/assets/345f5bd9-ea69-4141-895f-28db0fe0e4b9
 
-To watcht the demo in higher quality, you can [click here also](https://www.youtube.com/watch?v=bpMbvsQspss)
+To watch the demo in higher quality, you can [click here also](https://www.youtube.com/watch?v=bpMbvsQspss)
 
 
 ### Highlights
