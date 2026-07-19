@@ -82,7 +82,7 @@ To watch the demo in higher quality, you can [click here also](https://www.youtu
 
 ### 4. Sales Analysis Reporting, Dashboard & Forecasting
 
-- **Repository:** [Full Report](https://github.com/fraserg1/sales-analysis-reporting-and-forecasting/blob/main/Sales%20channels%20analysis%20report.pdf) | [Project Notes](https://github.com/fraserg1/sales-analysis-reporting-and-forecasting)
+- **Repository:** [Full Report](https://github.com/fraserg1/sales-analysis-reporting-and-forecasting/blob/main/Sales%20channels%20analysis%20report.pdf) | [Project Notes](https://github.com/fraserg1/sales-analysis-reporting-and-forecasting) | [Dashboard](https://public.tableau.com/views/Dashboard_Phase2/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - **Brief Description:** A full project analysing the drivers of sales and changing trends for a global manufacturer. Includes a dyanamic BI Dashboard, Market Basket Analysis and Sales Forecasting 
 - **Tools & Skills Used:** SQL, Tableau, PowerBI, Python, Pandas, NumPy, scikit-learn
 - **Project Goals:** Generate insights and recommendations to help understand the key trends and drivers of sales for the business across it's different sales channels globaly.
